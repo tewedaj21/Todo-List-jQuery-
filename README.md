@@ -1,7 +1,7 @@
 ## Project Title ##
 Todo List 
 
-# Introduction #
+## Introduction ##
 A project that demonstrates a Todo List built using jQuery. 
 
 ## Description ##
