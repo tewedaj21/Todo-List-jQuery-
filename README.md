@@ -11,8 +11,8 @@ The app is built using Bootstrap and jQuery. A user can add new tasks by hitting
 HTML, CSS, Bootstrap jQuery. 
 
 ## Author ##
-Name: Edom Meshesha
-GitHub: @eskista
+Name: Tewedaj Shola
+GitHub: @tewedaj21
 
 ## Acknowledgments ##
-Many thanks to Zelalem Sirag
+Many thanks to my groupmate
